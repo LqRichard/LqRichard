@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi，Welcome to my GitHub!
 
-<!--
-**LqRichard/LqRichard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" style="zoom:50%;" />😄 I am starfish, a super handsome boy
 
-Here are some ideas to get you started:
+- 🛠 I’m currently working with Java,SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨🏻‍💻 I’m currently learning Full Stack Development
+
+- 💬 Ask me about anything, I am happy to help
+
+- ⚡ Fun fact: Always believe that paying and harvesting are directly proportional
+
+- 📫 How to reach me: zhiqi_l163@163.com
