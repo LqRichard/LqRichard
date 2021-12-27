@@ -22,11 +22,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-### My Books
+### My Learn
 
-#### - [《Java 日常学习笔记》](https://github.com/LqRichard/JavaCourse) 
 
->Java 日常学习，内容包括但不限于 Java 基础、Java 集合框架、Java IO、Java 并发编程、Java 虚拟机、Java 企业级开发（SSM、Spring Boot）等核心知识点。
 
 ### Wait for you
 
