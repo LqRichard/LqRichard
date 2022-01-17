@@ -26,7 +26,7 @@
 
 #### - [《Java 学习笔记》专栏](https://github.com/LqRichard/JavaCourse) ⭐⭐⭐⭐
 
->Java 日常学习笔、问题记录😄，内容包括但不限于 Java 基础、Java 集合框架、Java IO、Java 并发编程、Java 虚拟机、Java 企业级开发（SSM、Spring Boot）、Linux、容器化等核心知识点。
+>Java 日常学习笔记、问题记录😄，内容包括但不限于 Java 基础、Java 集合框架、Java IO、Java 并发编程、Java 虚拟机、Java 企业级开发（SSM、Spring Boot）、Linux、容器化等核心知识点。
 
 
 ### Wait for you
