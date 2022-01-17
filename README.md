@@ -28,6 +28,9 @@
 
 >Java 日常学习笔记、问题记录😄，内容包括但不限于 Java 基础、Java 集合框架、Java IO、Java 并发编程、Java 虚拟机、Java 企业级开发（SSM、Spring Boot）、Linux、容器化等核心知识点。
 
+#### - [《Java 源码解析笔记》专栏](https://github.com/LqRichard/JavaCode_analysis) ⭐⭐⭐⭐
+
+>Java 日常学习中关于源码的笔记记，内容包括但不限于 Java 基础、Java 集合框架、Java IO、Java 并发编程、Java 虚拟机、Java 企业级开发（SSM、Spring Boot）等核心源码解析知识点。
 
 ### Wait for you
 
